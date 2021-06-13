@@ -1,5 +1,6 @@
 # Election-Management-System
 
+## Demo : https://youtu.be/yFvOg6tY4r8
 Election Management System is web application which will be dealing with activities performed in an Election manually by Election Commission. The mission is to reduce the manual work of registering the voters and generating voter ID card of citizens and to provide various facilities to users at one click. Proofs are also verified by admins prior to the approval of generating voter ID card.
 
 The system is able to provide various other functionalities such as opinion polling, some political news. The end users will be able to vote in opinion polls, get various news and various notices related to Election. The type of users are voters and admin. 
